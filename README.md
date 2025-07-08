@@ -15,12 +15,7 @@ Use VsCode/c++ compiler to run this code
 ```
 
 
-## CONTRIBUTERS
 
-- [JAHEER KHAN ](https://www.github.com/jaheerkhan01)
-- [SHUAIB JAWID](https://www.github.com/ShubJas)
-- [SANKET BABAR](https://www.github.com/)
-- [RONAK JAIN](https://www.github.com/)
 
 
 
